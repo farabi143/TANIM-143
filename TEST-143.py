@@ -1,6 +1,6 @@
 import os
-import test
-test.login()
+import Random
+Random.login()
 #--------------{Introduction}------------#
 #---পারলে ডিকোড করো না পারলে মাদারচো*দ তুই--#
 #--------------{Introduction}------------#
